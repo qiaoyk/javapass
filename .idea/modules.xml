@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Javapass-channel/Javapass-channel.iml" filepath="$PROJECT_DIR$/Javapass-channel/Javapass-channel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javapass-content/Javapass-content.iml" filepath="$PROJECT_DIR$/Javapass-content/Javapass-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javapass-member/Javapass-member.iml" filepath="$PROJECT_DIR$/Javapass-member/Javapass-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javapass-question/Javapass-question.iml" filepath="$PROJECT_DIR$/Javapass-question/Javapass-question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javapass-study/Javapass-study.iml" filepath="$PROJECT_DIR$/Javapass-study/Javapass-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javapass.iml" filepath="$PROJECT_DIR$/.idea/javapass.iml" />
+    </modules>
+  </component>
+</project>

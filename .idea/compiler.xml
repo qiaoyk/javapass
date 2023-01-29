@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Javapass-channel" />
+        <module name="Javapass-member" />
+        <module name="Javapass-question" />
+        <module name="Javapass-content" />
+        <module name="Javapass-study" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="javapass" target="1.5" />
+      <module name="Javapass-channel" target="17" />
+      <module name="Javapass-content" target="17" />
+      <module name="Javapass-member" target="17" />
+      <module name="Javapass-question" target="17" />
+      <module name="Javapass-study" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Javapass-channel" options="-parameters" />
+      <module name="Javapass-content" options="-parameters" />
+      <module name="Javapass-member" options="-parameters" />
+      <module name="Javapass-question" options="-parameters" />
+      <module name="Javapass-study" options="-parameters" />
+    </option>
+  </component>
+</project>
